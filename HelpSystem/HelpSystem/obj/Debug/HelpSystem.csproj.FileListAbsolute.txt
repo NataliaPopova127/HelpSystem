@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\HelpSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\HelpSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\HelpSystem_MarkupCompile.cache
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\HelpSystem_MarkupCompile.lref
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\bin\Debug\HelpSystem.exe.config
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\bin\Debug\HelpSystem.exe
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\bin\Debug\HelpSystem.pdb
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\HelpSystem.g.resources
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\HelpSystem.Properties.Resources.resources
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\HelpSystem.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\HelpSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\HelpSystem.exe
+C:\Users\Admin\Desktop\мдк 02 02\помощь\HelpSystem\HelpSystem\obj\Debug\HelpSystem.pdb
